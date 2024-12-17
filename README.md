@@ -17,15 +17,20 @@ Uppgift: Skapa en ordnad lista över installationstegen
 <h1>Projektets mål är att vi ska lära oss hantera konflikter<h1
 https://www.typing.com/student/lessons
 >
-=======
+
 <li>Branch</li>
 <p>En parallell version av koden där utvecklare kan göra ändringar utan att påverka huvudversionen (ofta kallad main eller master).</p>
 <p>.... .. .</p
-=======
 
 <h1>Projektets mål är att vi ska lära oss hantera konflikter</h1>
-=======
+
 <link>https://www.typing.com/student/lessons</link>
 
+    # Infogar emojis  :-P ;-p XD  
 
 
+
+<<<<<<< HEAD
+
+=======
+>>>>>>> bc32e6062cf9ee68058f9fd69c873ac60ed5de05
