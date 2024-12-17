@@ -9,4 +9,4 @@ Uppgift: Skapa en ordnad lista över installationstegen
 8. git commit
 9. git push
 10. verifiera 
----
+<h1>Projektets mål är att vi ska lära oss hantera konflikter<h1>
