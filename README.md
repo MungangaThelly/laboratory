@@ -9,11 +9,10 @@ Uppgift: Skapa en ordnad lista över installationstegen
 8. git commit
 9. git push
 10. verifiera 
-<<<<<<< HEAD
 ---
 <ul> KOMMANDON </ul>
 <li> Repository </li>
 <p> En samling av filer och mappar som innehåller kod, dokumentation och annan information för ett projekt. Kan ses som projektets "mapp" på GitHub.</p>
-=======
-<h1>Projektets mål är att vi ska lära oss hantera konflikter<h1>
->>>>>>> 9f442b08ea2eb8787f86e915bfc28648476314fe
+<h1>Projektets mål är att vi ska lära oss hantera konflikter<h1
+https://www.typing.com/student/lessons
+>
