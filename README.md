@@ -17,9 +17,9 @@ Uppgift: Skapa en ordnad lista över installationstegen
 <p>En parallell version av koden där utvecklare kan göra ändringar utan att påverka huvudversionen (ofta kallad main eller master).</p>
 <p>.... .. .</p
 =======
-<<<<<<< HEAD
+
 <h1>Projektets mål är att vi ska lära oss hantera konflikter</h1>
 =======
-<h1>Projektets mål är att vi ska lära oss hantera konflikter<h1>
->>>>>>> 149a3654040faa93e331b7165fd6f1fd9cc47922
+
+
 
