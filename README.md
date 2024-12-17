@@ -11,9 +11,12 @@ Uppgift: Skapa en ordnad lista över installationstegen
 10. verifiera 
 <<<<<<< HEAD
 ---
-<ul> KOMMANDON </ul>
-<li> Repository </li>
+<ul>VIKTIGT ATT TÄNKA PÅ!</ul>
+<li>Repository</li>
 <p> En samling av filer och mappar som innehåller kod, dokumentation och annan information för ett projekt. Kan ses som projektets "mapp" på GitHub.</p>
+<li>Branch</li>
+<p>En parallell version av koden där utvecklare kan göra ändringar utan att påverka huvudversionen (ofta kallad main eller master).</p>
+<p>.... .. .</p
 =======
-<h1>Projektets mål är att vi ska lära oss hantera konflikter<h1>
->>>>>>> 9f442b08ea2eb8787f86e915bfc28648476314fe
+<h1>Projektets mål är att vi ska lära oss hantera konflikter</h1>
+
