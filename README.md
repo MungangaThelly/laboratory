@@ -10,3 +10,6 @@ Uppgift: Skapa en ordnad lista över installationstegen
 9. git push
 10. verifiera 
 ---
+<ul> KOMMANDON </ul>
+<li> Repository </li>
+<p> En samling av filer och mappar som innehåller kod, dokumentation och annan information för ett projekt. Kan ses som projektets "mapp" på GitHub.</p>
