@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Uppgift: Skapa en ordnad lista över installationstegen
 1. gå till din workstation
 2. git clone repository
@@ -9,3 +10,6 @@ Uppgift: Skapa en ordnad lista över installationstegen
 8. git commit
 9. git push
 10. verifiera 
+=======
+---
+>>>>>>> d26bbaaa0abfa30ca3932f266fbad116bbabdc27
