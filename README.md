@@ -23,3 +23,6 @@ Uppgift: Skapa en ordnad lista över installationstegen
 <h1>Projektets mål är att vi ska lära oss hantera konflikter<h1>
 >>>>>>> 149a3654040faa93e331b7165fd6f1fd9cc47922
 
+
+    # Infogar emojis  :-P ;-p XD  
+
