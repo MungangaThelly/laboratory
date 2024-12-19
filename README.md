@@ -13,20 +13,27 @@ Uppgift: Skapa en ordnad lista över installationstegen
 <ul>VIKTIGT ATT TÄNKA PÅ!</ul>
 <li>Repository</li>
 <p> En samling av filer och mappar som innehåller kod, dokumentation och annan information för ett projekt. Kan ses som projektets "mapp" på GitHub.</p>
-<<<<<<< HEAD
+
 <h1>Projektets mål är att vi ska lära oss hantera konflikter<h1
 https://www.typing.com/student/lessons
+
 >
+
 
 <li>Branch</li>
 <p>En parallell version av koden där utvecklare kan göra ändringar utan att påverka huvudversionen (ofta kallad main eller master).</p>
 <p>.... .. .</p
+
 
 <h1>Projektets mål är att vi ska lära oss hantera konflikter</h1>
 
 <link>https://www.typing.com/student/lessons</link>
 
     # Infogar emojis  :-P ;-p XD  
+<<<<<<< HEAD
 
 
 # hej där
+=======
+    
+>>>>>>> 299a2e338508706b257b5bfa81f7ee2c86daced0
