@@ -20,7 +20,7 @@ https://www.typing.com/student/lessons
 >
 <h1>code</h1>
 
-
+<h1>code</
 <li>Branch</li>
 <p>En parallell version av koden där utvecklare kan göra ändringar utan att påverka huvudversionen (ofta kallad main eller master).</p>
 <p>.... .. .</p
