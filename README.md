@@ -18,7 +18,7 @@ https://www.typing.com/student/lessons
 
 >
 <h1>code</h1>
-<h1>code</h1>
+
 
 <li>Branch</li>
 <p>En parallell version av koden där utvecklare kan göra ändringar utan att påverka huvudversionen (ofta kallad main eller master).</p>
@@ -33,20 +33,16 @@ https://www.typing.com/student/lessons
     # Infogar emojis  :-P ;-p XD
   
  <h1>hantera connflict</h1>
-  #### testar igen 
+   
 =======
     # Infogar emojis  :-P ;-p XD  
 <<<<<<< HEAD
 
-<<<<<<< HEAD
-### hej där
-=======
 HEJSAAANNNNNNNNNN
 =======
 <<<<<<< HEAD
 
-
->>>>>>> fe92173e9d8cd59283b409e43d5cab2f00d0f879
+#### testa
 # hej där
 =======
     
